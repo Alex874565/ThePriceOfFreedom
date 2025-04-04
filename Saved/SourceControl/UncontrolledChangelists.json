@@ -22,7 +22,18 @@
 				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/WallPadded.uasset",
 				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/TS_Map.uasset",
 				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/Floor1Padded.uasset",
-				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/T_Map_Sprite_0.uasset"
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/T_Map_Sprite_0.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Widgets/W_Rat.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Input/IA_Eat.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Input/IMC_Player.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/Cell.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/Door.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/TS_Door.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/Door_TileSet.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/TS_Cell.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/CellPadded.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/DoorPadded.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/TS_Wall.uasset"
 			]
 		}
 	]
