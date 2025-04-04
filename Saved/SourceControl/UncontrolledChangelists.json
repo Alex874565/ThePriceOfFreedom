@@ -5,9 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Roxana/Desktop/ThePriceOfFreedom/Content/Assets/Map/Art/T_Map.uasset",
-				"C:/Users/Roxana/Desktop/ThePriceOfFreedom/Content/Levels/MainMenuMap.umap",
-				"C:/Users/Roxana/Desktop/ThePriceOfFreedom/Content/Widgets/MainMenuWB.uasset"
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Player.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Rat.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Levels/Main.umap",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/FB_Test.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/Wall_TileSet.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/TM_Map.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Guard.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Prisoner.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/Wall1.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/Wall1_TileSet.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_RatAI.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/TS_Floor.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/Floor1.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/Wall.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/WallPadded.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/TS_Map.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/Floor1Padded.uasset",
+				"C:/Programare/Games/UE5/ThePriceOfFreedom/Content/Assets/Map/Art/T_Map_Sprite_0.uasset"
 			]
 		}
 	]
