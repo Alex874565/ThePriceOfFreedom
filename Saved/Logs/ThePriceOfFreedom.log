@@ -29379,3 +29379,213 @@ Script Stack (0 frames) :
 [2025.04.05-13.44.05:892][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=118
 [2025.04.05-13.44.05:899][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
 [2025.04.05-13.44.05:955][633]LogPlayLevel: Display: Destroying online subsystem :Context_155
+[2025.04.05-13.44.39:880][152]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.05-13.44.39:888][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.05-13.44.39:888][152]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2025.04.05-13.44.39:890][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002292s)
+[2025.04.05-13.44.39:890][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.002326s)
+[2025.04.05-13.44.39:906][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.04.05-13.44.39:910][152]LogChaosDD: Creating Chaos Debug Draw Scene for world Main
+[2025.04.05-13.44.39:911][152]LogPlayLevel: PIE: World Init took: (0.001398s)
+[2025.04.05-13.44.39:911][152]LogAudio: Display: Creating Audio Device:                 Id: 119, Scope: Unique, Realtime: True
+[2025.04.05-13.44.39:912][152]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.05-13.44.39:912][152]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.05-13.44.39:912][152]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.05-13.44.39:912][152]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.05-13.44.39:912][152]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.05-13.44.39:912][152]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.05-13.44.39:912][152]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.05-13.44.39:912][152]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.05-13.44.39:912][152]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.05-13.44.39:912][152]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.05-13.44.39:912][152]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.05-13.44.39:914][152]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.05-13.44.39:933][152]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.04.05-13.44.39:933][152]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.05-13.44.39:933][152]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.05-13.44.39:933][152]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.05-13.44.39:934][152]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=119
+[2025.04.05-13.44.39:934][152]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=119
+[2025.04.05-13.44.39:936][152]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=119
+[2025.04.05-13.44.39:936][152]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=119
+[2025.04.05-13.44.39:936][152]LogInit: FAudioDevice initialized with ID 119.
+[2025.04.05-13.44.39:936][152]LogAudio: Display: Audio Device (ID: 119) registered with world 'Main'.
+[2025.04.05-13.44.39:936][152]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 119
+[2025.04.05-13.44.39:939][152]LogLoad: Game class is 'GM_Main_C'
+[2025.04.05-13.44.39:950][152]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2025.04.05-16.44.39
+[2025.04.05-13.44.39:950][152]LogWorld: Bringing up level for play took: 0.011122
+[2025.04.05-13.44.39:953][152]LogOnline: OSS: Created online subsystem instance for: :Context_156
+[2025.04.05-13.44.40:239][152]PIE: Server logged in
+[2025.04.05-13.44.40:240][152]PIE: Play in editor total start time 0.353 seconds.
+[2025.04.05-13.44.45:426][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.05-13.44.45:426][451]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2025.04.05-13.44.45:426][451]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.05-13.44.45:427][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.05-13.44.45:433][451]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.05-13.44.45:437][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.05-13.44.45:453][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.05-13.44.45:453][451]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 119
+[2025.04.05-13.44.45:453][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=119
+[2025.04.05-13.44.45:456][451]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=119
+[2025.04.05-13.44.45:463][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.05-13.44.45:494][452]LogPlayLevel: Display: Destroying online subsystem :Context_156
+[2025.04.05-13.45.02:127][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.04.05-13.45.02:135][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-13.45.02:180][436]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_CellMate] ([2] browsable assets)...
+[2025.04.05-13.45.02:180][436]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CellMate]
+[2025.04.05-13.45.02:180][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CellMate" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset" SILENT=true
+[2025.04.05-13.45.02:183][436]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CellMate
+[2025.04.05-13.45.02:184][436]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_CellMateAEDE5E4E429841CE55012B96757E43C8.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset'
+[2025.04.05-13.45.02:195][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.847 ms (total: 47.9 sec)
+[2025.04.05-13.45.02:241][436]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-13.45.02:241][436]LogContentValidation: Enabled validators:
+[2025.04.05-13.45.02:241][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-13.45.02:241][436]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-13.45.02:241][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-13.45.02:242][436]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-13.45.02:242][436]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-13.45.02:242][436]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-13.45.02:242][436]AssetCheck: /Game/Blueprints/BP_CellMate Validating asset
+[2025.04.05-13.45.04:654][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-13.45.04:697][579]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_CellMate] ([2] browsable assets)...
+[2025.04.05-13.45.04:697][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CellMate]
+[2025.04.05-13.45.04:697][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CellMate" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset" SILENT=true
+[2025.04.05-13.45.04:701][579]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CellMate
+[2025.04.05-13.45.04:702][579]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_CellMate71745E9C44C56C5B17B112860C2B0658.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset'
+[2025.04.05-13.45.04:714][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.227 ms (total: 48.0 sec)
+[2025.04.05-13.45.04:747][579]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-13.45.04:747][579]LogContentValidation: Enabled validators:
+[2025.04.05-13.45.04:747][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-13.45.04:747][579]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-13.45.04:747][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-13.45.04:747][579]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-13.45.04:747][579]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-13.45.04:747][579]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-13.45.04:747][579]AssetCheck: /Game/Blueprints/BP_CellMate Validating asset
+[2025.04.05-13.45.09:030][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.04.05-13.45.09:037][824]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-13.45.09:082][824]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_CellMate] ([2] browsable assets)...
+[2025.04.05-13.45.09:083][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CellMate]
+[2025.04.05-13.45.09:083][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CellMate" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset" SILENT=true
+[2025.04.05-13.45.09:085][824]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CellMate
+[2025.04.05-13.45.09:086][824]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_CellMate064DD7A8498C1769DD3C1680FF325A6D.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset'
+[2025.04.05-13.45.09:099][824]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.907 ms (total: 48.1 sec)
+[2025.04.05-13.45.09:138][824]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-13.45.09:138][824]LogContentValidation: Enabled validators:
+[2025.04.05-13.45.09:138][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-13.45.09:138][824]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-13.45.09:139][824]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-13.45.09:139][824]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-13.45.09:139][824]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-13.45.09:139][824]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-13.45.09:139][824]AssetCheck: /Game/Blueprints/BP_CellMate Validating asset
+[2025.04.05-13.45.10:128][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.04.05-13.45.10:133][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-13.45.10:173][878]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_CellMate] ([2] browsable assets)...
+[2025.04.05-13.45.10:173][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CellMate]
+[2025.04.05-13.45.10:173][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CellMate" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset" SILENT=true
+[2025.04.05-13.45.10:177][878]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CellMate
+[2025.04.05-13.45.10:177][878]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_CellMate7FA38162423A16584B138CA9E43197F2.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset'
+[2025.04.05-13.45.10:190][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 56.375 ms (total: 48.1 sec)
+[2025.04.05-13.45.10:228][878]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-13.45.10:228][878]LogContentValidation: Enabled validators:
+[2025.04.05-13.45.10:228][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-13.45.10:228][878]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-13.45.10:228][878]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-13.45.10:228][878]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-13.45.10:228][878]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-13.45.10:228][878]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-13.45.10:228][878]AssetCheck: /Game/Blueprints/BP_CellMate Validating asset
+[2025.04.05-13.45.12:556][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.05-13.45.12:562][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-13.45.12:602][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.05-13.45.12:638][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.04.05-13.45.12:648][ 15]LogSavePackage: Moving output files for package: /Game/Levels/Main
+[2025.04.05-13.45.12:649][ 15]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/Main0355ACBA41CDB2AF9819B9988B82CC65.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Levels/Main.umap'
+[2025.04.05-13.45.12:659][ 15]LogFileHelpers: Saving map 'Main' took 0.058
+[2025.04.05-13.45.12:659][ 15]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_CellMate] ([2] browsable assets)...
+[2025.04.05-13.45.12:659][ 15]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CellMate]
+[2025.04.05-13.45.12:659][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CellMate" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset" SILENT=true
+[2025.04.05-13.45.12:662][ 15]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CellMate
+[2025.04.05-13.45.12:663][ 15]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_CellMate563C56044637C16DDD17C998136395ED.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset'
+[2025.04.05-13.45.12:676][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.046 ms (total: 48.2 sec)
+[2025.04.05-13.45.12:716][ 15]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.05-13.45.12:716][ 15]LogContentValidation: Enabled validators:
+[2025.04.05-13.45.12:716][ 15]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-13.45.12:716][ 15]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-13.45.12:716][ 15]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-13.45.12:716][ 15]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-13.45.12:716][ 15]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-13.45.12:716][ 15]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-13.45.12:716][ 15]AssetCheck: /Game/Levels/Main Validating asset
+[2025.04.05-13.45.12:716][ 15]AssetCheck: /Game/Blueprints/BP_CellMate Validating asset
+[2025.04.05-13.45.14:676][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.04.05-13.45.14:681][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-13.45.14:721][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.05-13.45.14:754][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.04.05-13.45.14:765][130]LogSavePackage: Moving output files for package: /Game/Levels/Main
+[2025.04.05-13.45.14:765][130]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/Main447601A746262C514AE8CF973ECF56EA.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Levels/Main.umap'
+[2025.04.05-13.45.14:775][130]LogFileHelpers: Saving map 'Main' took 0.054
+[2025.04.05-13.45.14:775][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_CellMate] ([2] browsable assets)...
+[2025.04.05-13.45.14:775][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CellMate]
+[2025.04.05-13.45.14:775][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CellMate" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset" SILENT=true
+[2025.04.05-13.45.14:777][130]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CellMate
+[2025.04.05-13.45.14:778][130]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_CellMateEB649D0346F2B5DB820E3B95ED883185.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset'
+[2025.04.05-13.45.14:791][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.396 ms (total: 48.3 sec)
+[2025.04.05-13.45.14:832][130]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.05-13.45.14:833][130]LogContentValidation: Enabled validators:
+[2025.04.05-13.45.14:833][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-13.45.14:833][130]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-13.45.14:833][130]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-13.45.14:833][130]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-13.45.14:833][130]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-13.45.14:833][130]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-13.45.14:833][130]AssetCheck: /Game/Levels/Main Validating asset
+[2025.04.05-13.45.14:833][130]AssetCheck: /Game/Blueprints/BP_CellMate Validating asset
+[2025.04.05-13.45.16:374][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.04.05-13.45.16:378][220]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-13.45.16:415][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.05-13.45.16:450][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.04.05-13.45.16:461][220]LogSavePackage: Moving output files for package: /Game/Levels/Main
+[2025.04.05-13.45.16:462][220]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/Main8D0A0907469DADA5E3B20DA1DCD0FBC9.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Levels/Main.umap'
+[2025.04.05-13.45.16:471][220]LogFileHelpers: Saving map 'Main' took 0.056
+[2025.04.05-13.45.16:472][220]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_CellMate] ([2] browsable assets)...
+[2025.04.05-13.45.16:472][220]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CellMate]
+[2025.04.05-13.45.16:472][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CellMate" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset" SILENT=true
+[2025.04.05-13.45.16:475][220]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CellMate
+[2025.04.05-13.45.16:475][220]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_CellMate84AF27FC4426062D8C9EFEBCFD1ABD22.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset'
+[2025.04.05-13.45.16:488][220]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.556 ms (total: 48.4 sec)
+[2025.04.05-13.45.16:530][220]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.05-13.45.16:530][220]LogContentValidation: Enabled validators:
+[2025.04.05-13.45.16:530][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-13.45.16:530][220]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-13.45.16:530][220]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-13.45.16:530][220]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-13.45.16:530][220]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-13.45.16:530][220]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-13.45.16:530][220]AssetCheck: /Game/Levels/Main Validating asset
+[2025.04.05-13.45.16:530][220]AssetCheck: /Game/Blueprints/BP_CellMate Validating asset
+[2025.04.05-13.45.17:855][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.04.05-13.45.17:861][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-13.45.17:897][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.05-13.45.17:931][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.04.05-13.45.17:942][296]LogSavePackage: Moving output files for package: /Game/Levels/Main
+[2025.04.05-13.45.17:942][296]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/Main52E3C27A4FB0384591BCA18B2C5B161C.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Levels/Main.umap'
+[2025.04.05-13.45.17:951][296]LogFileHelpers: Saving map 'Main' took 0.054
+[2025.04.05-13.45.17:951][296]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_CellMate] ([2] browsable assets)...
+[2025.04.05-13.45.17:951][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_CellMate]
+[2025.04.05-13.45.17:951][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_CellMate" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset" SILENT=true
+[2025.04.05-13.45.17:955][296]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_CellMate
+[2025.04.05-13.45.17:955][296]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_CellMate2316E999414AFE0B3B5837BF3F90D96E.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_CellMate.uasset'
+[2025.04.05-13.45.17:967][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 106.363 ms (total: 48.6 sec)
+[2025.04.05-13.45.18:007][296]LogContentValidation: Display: Starting to validate 2 assets
+[2025.04.05-13.45.18:007][296]LogContentValidation: Enabled validators:
+[2025.04.05-13.45.18:007][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-13.45.18:007][296]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-13.45.18:007][296]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-13.45.18:007][296]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-13.45.18:007][296]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-13.45.18:007][296]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-13.45.18:007][296]AssetCheck: /Game/Levels/Main Validating asset
+[2025.04.05-13.45.18:007][296]AssetCheck: /Game/Blueprints/BP_CellMate Validating asset
+[2025.04.05-13.45.26:645][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
