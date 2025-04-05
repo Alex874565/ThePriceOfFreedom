@@ -18181,3 +18181,302 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.05-16.46.20:864][469]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.05-16.46.20:864][469]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.05-16.46.20:864][469]AssetCheck: /Game/Blueprints/BP_PrisonerAI Validating asset
+[2025.04.05-16.47.07:067][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.47.07:111][569]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PrisonerAI] ([2] browsable assets)...
+[2025.04.05-16.47.07:111][569]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PrisonerAI]
+[2025.04.05-16.47.07:111][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PrisonerAI" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset" SILENT=true
+[2025.04.05-16.47.07:127][569]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PrisonerAI
+[2025.04.05-16.47.07:127][569]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_PrisonerAIB167BC044107880F0C55AB8EBD8AC7E8.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset'
+[2025.04.05-16.47.07:140][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.884 ms (total: 38.9 sec)
+[2025.04.05-16.47.07:184][569]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.47.07:184][569]LogContentValidation: Enabled validators:
+[2025.04.05-16.47.07:184][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.47.07:184][569]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.47.07:184][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.47.07:184][569]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.47.07:184][569]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.47.07:184][569]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.47.07:185][569]AssetCheck: /Game/Blueprints/BP_PrisonerAI Validating asset
+[2025.04.05-16.47.11:287][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.47.11:332][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PrisonerAI] ([2] browsable assets)...
+[2025.04.05-16.47.11:333][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PrisonerAI]
+[2025.04.05-16.47.11:333][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PrisonerAI" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset" SILENT=true
+[2025.04.05-16.47.11:349][798]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PrisonerAI
+[2025.04.05-16.47.11:350][798]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_PrisonerAI3100F843460662918ACFF3A5942BBE9C.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset'
+[2025.04.05-16.47.11:362][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.569 ms (total: 39.0 sec)
+[2025.04.05-16.47.11:409][798]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.47.11:409][798]LogContentValidation: Enabled validators:
+[2025.04.05-16.47.11:409][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.47.11:409][798]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.47.11:409][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.47.11:409][798]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.47.11:409][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.47.11:409][798]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.47.11:409][798]AssetCheck: /Game/Blueprints/BP_PrisonerAI Validating asset
+[2025.04.05-16.47.13:726][922]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.47.13:769][922]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PrisonerAI] ([2] browsable assets)...
+[2025.04.05-16.47.13:769][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PrisonerAI]
+[2025.04.05-16.47.13:769][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PrisonerAI" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset" SILENT=true
+[2025.04.05-16.47.13:785][922]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PrisonerAI
+[2025.04.05-16.47.13:786][922]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_PrisonerAI0E55894B42FBC2D9ECB713BE32F4DAC8.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset'
+[2025.04.05-16.47.13:798][922]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.096 ms (total: 39.1 sec)
+[2025.04.05-16.47.13:845][922]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.47.13:845][922]LogContentValidation: Enabled validators:
+[2025.04.05-16.47.13:845][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.47.13:845][922]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.47.13:846][922]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.47.13:846][922]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.47.13:846][922]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.47.13:846][922]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.47.13:846][922]AssetCheck: /Game/Blueprints/BP_PrisonerAI Validating asset
+[2025.04.05-16.47.19:075][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.47.19:114][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PrisonerAI] ([2] browsable assets)...
+[2025.04.05-16.47.19:114][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PrisonerAI]
+[2025.04.05-16.47.19:114][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PrisonerAI" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset" SILENT=true
+[2025.04.05-16.47.19:130][228]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PrisonerAI
+[2025.04.05-16.47.19:131][228]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_PrisonerAI6DE5582B41E4AF63992BFFB45A27E78B.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset'
+[2025.04.05-16.47.19:142][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.010 ms (total: 39.1 sec)
+[2025.04.05-16.47.19:180][228]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.47.19:180][228]LogContentValidation: Enabled validators:
+[2025.04.05-16.47.19:180][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.47.19:180][228]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.47.19:180][228]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.47.19:180][228]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.47.19:180][228]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.47.19:180][228]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.47.19:180][228]AssetCheck: /Game/Blueprints/BP_PrisonerAI Validating asset
+[2025.04.05-16.47.34:829][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.47.34:874][166]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PrisonerAI] ([2] browsable assets)...
+[2025.04.05-16.47.34:874][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PrisonerAI]
+[2025.04.05-16.47.34:874][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PrisonerAI" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset" SILENT=true
+[2025.04.05-16.47.34:889][166]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PrisonerAI
+[2025.04.05-16.47.34:890][166]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_PrisonerAI5453233D4A5E97C4AEE07C942CFC3166.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset'
+[2025.04.05-16.47.34:904][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.253 ms (total: 39.2 sec)
+[2025.04.05-16.47.34:947][166]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.47.34:947][166]LogContentValidation: Enabled validators:
+[2025.04.05-16.47.34:947][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.47.34:947][166]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.47.34:947][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.47.34:947][166]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.47.34:947][166]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.47.34:947][166]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.47.34:947][166]AssetCheck: /Game/Blueprints/BP_PrisonerAI Validating asset
+[2025.04.05-16.47.38:262][362]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.05-16.47.38:282][362]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2025.04.05-16.47.38:314][362]LogPlayLevel: [PlayLevel]   Compiling BP_Prisoner as a dependent...
+[2025.04.05-16.47.38:749][362]LogPlayLevel: [PlayLevel] Compiling BP_PrisonerAI before play...
+[2025.04.05-16.47.38:755][362]LogBlueprint: Error: [AssetLog] C:\Programare\Games\UE5\ThePriceOfFreedom\Content\Blueprints\BP_PrisonerAI.uasset: [Compiler] This blueprint (self) is not a BP_Rat_C, therefore ' Target ' must have a connection.
+[2025.04.05-16.47.38:756][362]LogBlueprint: Error: [AssetLog] C:\Programare\Games\UE5\ThePriceOfFreedom\Content\Blueprints\BP_PrisonerAI.uasset: [Compiler] Variable node  Set Stopped  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.04.05-16.47.38:821][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.04.05-16.47.38:828][362]LogPlayLevel: PlayLevel: Blueprint regeneration took 559 ms (3 blueprints)
+[2025.04.05-16.47.38:828][362]BlueprintLog: Warning: Blueprint failed to compile:  BP_PrisonerAI
+[2025.04.05-16.47.39:790][362]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.04.05-16.47.41:682][458]LogSlate: Window 'Message Log' being destroyed
+[2025.04.05-16.47.41:690][458]LogSlate: Window 'Message Log' being destroyed
+[2025.04.05-16.48.02:050][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.48.02:085][608]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PrisonerAI] ([2] browsable assets)...
+[2025.04.05-16.48.02:085][608]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PrisonerAI]
+[2025.04.05-16.48.02:085][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PrisonerAI" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset" SILENT=true
+[2025.04.05-16.48.02:100][608]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PrisonerAI
+[2025.04.05-16.48.02:101][608]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_PrisonerAI550140C04AD486A837E49989D10D685A.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset'
+[2025.04.05-16.48.02:112][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.560 ms (total: 39.3 sec)
+[2025.04.05-16.48.02:150][608]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.48.02:150][608]LogContentValidation: Enabled validators:
+[2025.04.05-16.48.02:150][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.48.02:150][608]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.48.02:150][608]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.48.02:150][608]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.48.02:150][608]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.48.02:150][608]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.48.02:150][608]AssetCheck: /Game/Blueprints/BP_PrisonerAI Validating asset
+[2025.04.05-16.48.09:173][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.48.09:213][ 13]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_PrisonerAI] ([2] browsable assets)...
+[2025.04.05-16.48.09:213][ 13]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PrisonerAI]
+[2025.04.05-16.48.09:213][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PrisonerAI" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset" SILENT=true
+[2025.04.05-16.48.09:229][ 13]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_PrisonerAI
+[2025.04.05-16.48.09:230][ 13]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_PrisonerAI45927A0D47545AC54B624AB7FFB5FB36.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_PrisonerAI.uasset'
+[2025.04.05-16.48.09:241][ 13]LogFileHelpers: InternalPromptForCheckoutAndSave took 69.094 ms (total: 39.3 sec)
+[2025.04.05-16.48.09:282][ 13]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.48.09:282][ 13]LogContentValidation: Enabled validators:
+[2025.04.05-16.48.09:282][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.48.09:282][ 13]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.48.09:282][ 13]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.48.09:282][ 13]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.48.09:282][ 13]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.48.09:282][ 13]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.48.09:282][ 13]AssetCheck: /Game/Blueprints/BP_PrisonerAI Validating asset
+[2025.04.05-16.48.10:223][ 69]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.05-16.48.10:232][ 69]LogPlayLevel: [PlayLevel] Compiling BP_PrisonerAI before play...
+[2025.04.05-16.48.10:486][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.05-16.48.10:493][ 69]LogPlayLevel: PlayLevel: Blueprint regeneration took 261 ms (1 blueprints)
+[2025.04.05-16.48.10:493][ 69]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2025.04.05-16.48.10:497][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003664s)
+[2025.04.05-16.48.10:497][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.003703s)
+[2025.04.05-16.48.10:513][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.04.05-16.48.10:516][ 69]LogChaosDD: Creating Chaos Debug Draw Scene for world Main
+[2025.04.05-16.48.10:517][ 69]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2025.04.05-16.48.10:517][ 69]LogAudio: Display: Creating Audio Device:                 Id: 118, Scope: Unique, Realtime: True
+[2025.04.05-16.48.10:517][ 69]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.05-16.48.10:517][ 69]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.05-16.48.10:517][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.05-16.48.10:517][ 69]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.05-16.48.10:517][ 69]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.05-16.48.10:517][ 69]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.05-16.48.10:517][ 69]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.05-16.48.10:517][ 69]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.05-16.48.10:517][ 69]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.05-16.48.10:517][ 69]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.05-16.48.10:517][ 69]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.05-16.48.10:519][ 69]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.05-16.48.10:539][ 69]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.04.05-16.48.10:539][ 69]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.05-16.48.10:539][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.05-16.48.10:539][ 69]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.05-16.48.10:541][ 69]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=118
+[2025.04.05-16.48.10:541][ 69]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=118
+[2025.04.05-16.48.10:544][ 69]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=118
+[2025.04.05-16.48.10:544][ 69]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=118
+[2025.04.05-16.48.10:544][ 69]LogInit: FAudioDevice initialized with ID 118.
+[2025.04.05-16.48.10:544][ 69]LogAudio: Display: Audio Device (ID: 118) registered with world 'Main'.
+[2025.04.05-16.48.10:544][ 69]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 118
+[2025.04.05-16.48.10:547][ 69]LogLoad: Game class is 'GM_Main_C'
+[2025.04.05-16.48.10:558][ 69]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2025.04.05-19.48.10
+[2025.04.05-16.48.10:559][ 69]LogWorld: Bringing up level for play took: 0.011815
+[2025.04.05-16.48.10:561][ 69]LogOnline: OSS: Created online subsystem instance for: :Context_144
+[2025.04.05-16.48.10:832][ 69]PIE: Server logged in
+[2025.04.05-16.48.10:833][ 69]PIE: Play in editor total start time 0.603 seconds.
+[2025.04.05-16.48.49:949][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.05-16.48.49:950][407]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2025.04.05-16.48.49:950][407]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2025.04.05-16.48.49:950][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.05-16.48.50:009][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.05-16.48.50:011][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.05-16.48.50:027][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.05-16.48.50:027][407]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 118
+[2025.04.05-16.48.50:027][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=118
+[2025.04.05-16.48.50:030][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=118
+[2025.04.05-16.48.50:038][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.04.05-16.48.50:126][408]LogPlayLevel: Display: Destroying online subsystem :Context_144
+[2025.04.05-16.48.53:788][618]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.05-16.48.54:817][679]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.05-16.48.55:367][711]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.05-16.48.56:246][763]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.05-16.48.57:380][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.48.57:439][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.05-16.48.57:475][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.04.05-16.48.57:493][830]LogSavePackage: Moving output files for package: /Game/Levels/Main
+[2025.04.05-16.48.57:494][830]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/Main037EC2A342C6355A8833648794882876.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Levels/Main.umap'
+[2025.04.05-16.48.57:506][830]LogFileHelpers: Saving map 'Main' took 0.067
+[2025.04.05-16.48.57:517][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.129 ms (total: 39.5 sec)
+[2025.04.05-16.48.57:557][830]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.48.57:557][830]LogContentValidation: Enabled validators:
+[2025.04.05-16.48.57:557][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.48.57:557][830]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.48.57:557][830]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.48.57:557][830]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.48.57:557][830]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.48.57:557][830]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.48.57:557][830]AssetCheck: /Game/Levels/Main Validating asset
+[2025.04.05-16.49.27:856][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.04.05-16.50.28:143][197]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10831.715820
+[2025.04.05-16.50.28:343][209]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-16.50.28:343][209]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10831.898438, Update Interval: 309.670105
+[2025.04.05-16.51.29:117][842]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2025.04.05-16.51.29:117][842]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_47
+[2025.04.05-16.51.49:496][ 19]LogDerivedDataCache: C:/Users/alexc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.04.05-16.52.35:881][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.52.35:923][764]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.04.05-16.52.35:923][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.04.05-16.52.35:923][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.04.05-16.52.35:958][764]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.04.05-16.52.35:959][764]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_PlayerECD6355D4EF94AC29D5BE18B44216090.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Player.uasset'
+[2025.04.05-16.52.35:973][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.447 ms (total: 39.6 sec)
+[2025.04.05-16.52.36:022][764]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.52.36:022][764]LogContentValidation: Enabled validators:
+[2025.04.05-16.52.36:022][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.52.36:022][764]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.52.36:022][764]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.52.36:022][764]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.52.36:022][764]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.52.36:022][764]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.52.36:022][764]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.04.05-16.52.38:128][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.52.38:168][888]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.04.05-16.52.38:168][888]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.04.05-16.52.38:168][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.04.05-16.52.38:207][888]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.04.05-16.52.38:207][888]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_PlayerA20583CB45A499D097D850BD01C08EBB.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Player.uasset'
+[2025.04.05-16.52.38:219][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.473 ms (total: 39.7 sec)
+[2025.04.05-16.52.38:265][888]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.52.38:265][888]LogContentValidation: Enabled validators:
+[2025.04.05-16.52.38:265][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.52.38:265][888]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.52.38:265][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.52.38:265][888]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.52.38:265][888]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.52.38:265][888]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.52.38:266][888]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.04.05-16.53.00:523][177]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.53.00:565][177]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.04.05-16.53.00:565][177]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.04.05-16.53.00:565][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.04.05-16.53.00:599][177]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.04.05-16.53.00:600][177]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_Player4F4498D8463B1A07A09826B4C9049A6E.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Player.uasset'
+[2025.04.05-16.53.00:613][177]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.905 ms (total: 39.8 sec)
+[2025.04.05-16.53.00:661][177]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.53.00:661][177]LogContentValidation: Enabled validators:
+[2025.04.05-16.53.00:661][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.53.00:661][177]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.53.00:661][177]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.53.00:661][177]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.53.00:661][177]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.53.00:661][177]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.53.00:661][177]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.04.05-16.53.10:242][736]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.53.10:277][736]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.04.05-16.53.10:277][736]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.04.05-16.53.10:277][736]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.04.05-16.53.10:313][736]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.04.05-16.53.10:313][736]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_PlayerF64F7B9F4A56B9A13EC58A850BE1F6C1.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Player.uasset'
+[2025.04.05-16.53.10:326][736]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.832 ms (total: 39.8 sec)
+[2025.04.05-16.53.10:369][736]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.53.10:369][736]LogContentValidation: Enabled validators:
+[2025.04.05-16.53.10:369][736]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.53.10:369][736]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.53.10:369][736]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.53.10:369][736]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.53.10:369][736]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.53.10:369][736]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.53.10:369][736]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.04.05-16.53.11:529][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.53.11:573][798]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.04.05-16.53.11:573][798]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.04.05-16.53.11:573][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.04.05-16.53.11:612][798]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.04.05-16.53.11:613][798]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_PlayerF8E22C7F403F3454636EFAA4A151174A.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Player.uasset'
+[2025.04.05-16.53.11:625][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.257 ms (total: 39.9 sec)
+[2025.04.05-16.53.11:662][798]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.53.11:662][798]LogContentValidation: Enabled validators:
+[2025.04.05-16.53.11:662][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.53.11:662][798]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.53.11:662][798]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.53.11:662][798]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.53.11:662][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.53.11:662][798]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.53.11:662][798]AssetCheck: /Game/Blueprints/BP_Player Validating asset
+[2025.04.05-16.53.15:399][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-16.53.15:446][ 17]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2025.04.05-16.53.15:446][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2025.04.05-16.53.15:446][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2025.04.05-16.53.15:481][ 17]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2025.04.05-16.53.15:481][ 17]LogSavePackage: Moving '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Saved/BP_Player74D0BA5E44B5A0218F79DBA897C3657F.tmp' to '../../../../../../Programare/Games/UE5/ThePriceOfFreedom/Content/Blueprints/BP_Player.uasset'
+[2025.04.05-16.53.15:496][ 17]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.297 ms (total: 40.0 sec)
+[2025.04.05-16.53.15:531][ 17]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-16.53.15:531][ 17]LogContentValidation: Enabled validators:
+[2025.04.05-16.53.15:531][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-16.53.15:531][ 17]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-16.53.15:531][ 17]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-16.53.15:531][ 17]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-16.53.15:531][ 17]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-16.53.15:531][ 17]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-16.53.15:531][ 17]AssetCheck: /Game/Blueprints/BP_Player Validating asset
